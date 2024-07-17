@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(90deg, #2d3f4e, #3f6ca8);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.navbar {
+    list-style-type: none;
+    text-align: start;
+  }
+  .navbar a{
+    color: white;
+    text-decoration: none;
+  }
+
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+
+  .return {
+    list-style-type: none;
+    font-size: 20px;
+  }
+  .return a{
+    color: white;
+  }
+
+  .return a:hover {
+    text-decoration: underline;
+  }
+  
